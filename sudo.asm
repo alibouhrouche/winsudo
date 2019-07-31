@@ -98,8 +98,6 @@ struc SHELLEXECUTEINFO {
 }
 
   _runas   db 'runas',0
-  ;_notepad db 'notepad.exe',0
-  ;_test    db 'w32.semiono.asm',0
 
   align 4
 
